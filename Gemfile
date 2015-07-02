@@ -30,7 +30,11 @@ gem "font-awesome-rails"
 
 gem 'simple_form'
 
+gem 'devise'
+
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+
+
 
 group :test, :development do
   gem 'rspec-rails', '~> 3.0.0'
